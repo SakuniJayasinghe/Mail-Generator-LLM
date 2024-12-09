@@ -1,0 +1,11 @@
+TechStack,Description 
+"Python, Amazon WorkSpaces, Amazon SageMaker, Snowflake, Tableau",A time series classification project for risk management in the financial domain - Internship
+"Python, React Native, Data analysis, visualization, preprocessing, Q learning model","Recommend music, movies and books based on user emotions and preferences to uplift the emotional states using reinforcement learning"
+"Python, TensorFlow, Keras, Flask",A web based application to explore the use of ML over traditional methods for precipitation forecasting
+"Flutter, Python, OpenCV, Firebase, NodeJS",An embedded system that detects road rule breakage severity with regards to the crossing of the road lines. The users can visualize the data via the mobile application
+"Python, OpenCV, Tensorflow",Lung cancer classification using deep learning and computer vision
+"Llama 3.1, ChromaDB, LangChain, Streamlit",Generate emails according to the job description or URL given
+"Python, scikit-learn, Flask, AWS",End to end ML project to predict student’s marks with CI/CD pipeline
+"Android Studio, Java, SQLite",A mobile app for track and help to manage the development of the baby
+"React, Node JS, Spring Boot, MySQL",A full stack web application to manage the employees with CRUD operations
+"MongoDB, Express, React, Node JS",A full stack web application to order and deliver food for customers
